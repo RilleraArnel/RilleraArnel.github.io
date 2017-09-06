@@ -1,13 +1,14 @@
 * {
+	border-width: 0px 0px 0px 0px;
+	padding: 0px 0px;
+	text-align: left;
+	align-content: left;
 }
 
 th {
-	width: 300px;
-	ali
+	min-width: 250px;
 }
-
 
 .Info {
-	padding: 50px;
+	padding-bottom: 15px;
 }
-
